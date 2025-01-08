@@ -14,7 +14,7 @@ This Python-based Smart Attendance System uses OpenCV and machine learning to re
 - Pillow
 
 ## How to Run:
-1. Clone the repository.
+1. Install the Python.
 2. Install the required dependencies.
 3. Run the `smart_attendance.py` script.
 
